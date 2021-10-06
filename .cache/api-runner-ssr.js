@@ -1,15 +1,15 @@
 var plugins = [{
       name: 'gatsby-plugin-image',
-      plugin: require('C:/Users/zwolf/Documents/OAG/oag_website2/ocean_affinity_group/node_modules/gatsby-plugin-image/gatsby-ssr'),
+      plugin: require('C:/Users/zwolf/Documents/GitHub/ocean_affinity_group/node_modules/gatsby-plugin-image/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-styled-components',
-      plugin: require('C:/Users/zwolf/Documents/OAG/oag_website2/ocean_affinity_group/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('C:/Users/zwolf/Documents/GitHub/ocean_affinity_group/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[],"displayName":true,"fileName":true,"minify":true,"namespace":"","transpileTemplateLiterals":true,"topLevelImportPaths":[],"pure":false},
     },{
       name: 'gatsby-plugin-mdx',
-      plugin: require('C:/Users/zwolf/Documents/OAG/oag_website2/ocean_affinity_group/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
-      options: {"plugins":[],"extensions":[".mdx"],"defaultLayouts":{},"gatsbyRemarkPlugins":[],"lessBabel":false,"remarkPlugins":[],"rehypePlugins":[],"mediaTypes":["text/markdown","text/x-markdown"],"root":"C:\\Users\\zwolf\\Documents\\OAG\\oag_website2\\ocean_affinity_group"},
+      plugin: require('C:/Users/zwolf/Documents/GitHub/ocean_affinity_group/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
+      options: {"plugins":[],"extensions":[".mdx"],"defaultLayouts":{},"gatsbyRemarkPlugins":[],"lessBabel":false,"remarkPlugins":[],"rehypePlugins":[],"mediaTypes":["text/markdown","text/x-markdown"],"root":"C:\\Users\\zwolf\\Documents\\GitHub\\ocean_affinity_group"},
     }]
 /* global plugins */
 // During bootstrap, we write requires at top of this file which looks like:

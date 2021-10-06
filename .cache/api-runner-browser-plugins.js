@@ -9,7 +9,7 @@ module.exports = [{
       options: {"plugins":[],"maxWidth":650,"linkImagesToOriginal":true,"showCaptions":false,"markdownCaptions":false,"sizeByPixelDensity":false,"backgroundColor":"white","quality":50,"withWebp":false,"tracedSVG":false,"loading":"lazy","decoding":"async","disableBgImageOnAlpha":false,"disableBgImage":false},
     },{
       plugin: require('../node_modules/gatsby-plugin-mdx/gatsby-browser.js'),
-      options: {"plugins":[],"extensions":[".mdx"],"defaultLayouts":{},"gatsbyRemarkPlugins":[],"lessBabel":false,"remarkPlugins":[],"rehypePlugins":[],"mediaTypes":["text/markdown","text/x-markdown"],"root":"C:\\Users\\zwolf\\Documents\\OAG\\oag_website2\\ocean_affinity_group"},
+      options: {"plugins":[],"extensions":[".mdx"],"defaultLayouts":{},"gatsbyRemarkPlugins":[],"lessBabel":false,"remarkPlugins":[],"rehypePlugins":[],"mediaTypes":["text/markdown","text/x-markdown"],"root":"C:\\Users\\zwolf\\Documents\\GitHub\\ocean_affinity_group"},
     },{
       plugin: require('../gatsby-browser.js'),
       options: {"plugins":[]},
